@@ -1,0 +1,11 @@
+body
+{
+    background-color:#121212;
+    height:850px;
+
+}
+.sidebar {
+  overflow-y: auto;
+  max-height: 100vh;
+}
+
